@@ -48,7 +48,7 @@ The evaluation phase involves a thorough assessment of the developed predictive 
 
 ## Recommendations
 
-**Decision tree:** We recommend using our Decision tree model because of how well it our recall responded. With this we can predict with a high degree of confidence which players have staying pro for 5 plus years. 
+We recommend utilizing the Decision Tree for our task to eliminate unworthy candidates. Most of these players will not have a long career, and it is very important for our client to know clearly which players would not be a good financial investment if they'd like to run a successful business.   
 
 ## Conclusion
 
